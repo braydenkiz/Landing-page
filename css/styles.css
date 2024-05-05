@@ -18,6 +18,8 @@ ul {
     display: flex;
     justify-content: flex-end;
     gap: 18px;
+    padding-right: 35px;
+    list-style: none;
     
 }
 
