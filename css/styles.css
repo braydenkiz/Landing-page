@@ -61,3 +61,8 @@ main {
     gap: 8px;
     justify-content: space-around;
 }
+
+.quote-container {
+    background-color: #E5E7EB;
+    height: 330px;
+}
