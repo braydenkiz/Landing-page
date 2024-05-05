@@ -37,3 +37,8 @@ main {
     padding: 100px;
     
 }
+
+.main-container {
+    text-align: center;
+    color: orange;
+}
