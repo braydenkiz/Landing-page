@@ -111,3 +111,10 @@ footer {
     color: white;
     text-align: center;
 }
+
+button {
+    border-radius: 5px;
+    background-color: white;
+    font-weight: bold;
+    color: #1F2937;
+}
