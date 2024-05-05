@@ -76,3 +76,8 @@ main {
 .author {
     margin-top: 15px;
 }
+
+.button-container {
+    background-color: white;
+    height: 330px;
+}
