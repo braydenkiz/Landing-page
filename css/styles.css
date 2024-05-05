@@ -54,6 +54,7 @@ main {
     height: 200px;
     background-color: lightgrey;
     border: 3px solid black;
+    margin-bottom: 55px;
 }
 
 .projects {
