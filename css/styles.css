@@ -42,3 +42,8 @@ main {
     text-align: center;
     color: orange;
 }
+
+.project-title {
+    text-align: center;
+    margin-top: 35px;
+}
