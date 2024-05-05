@@ -45,7 +45,8 @@ main {
 
 .project-title {
     text-align: center;
-    margin-top: 35px;
+    margin: 35px 0;
+    
 }
 
 .items {
@@ -53,4 +54,10 @@ main {
     height: 200px;
     background-color: lightgrey;
     border: 3px solid black;
+}
+
+.projects {
+    display: flex;
+    gap: 8px;
+    justify-content: space-around;
 }
