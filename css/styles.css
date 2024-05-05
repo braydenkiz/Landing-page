@@ -2,3 +2,9 @@
     background-color: #1F2937;
     height: 85px;
 }
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 18px;
+}
