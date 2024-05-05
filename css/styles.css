@@ -67,3 +67,8 @@ main {
     background-color: #E5E7EB;
     height: 330px;
 }
+
+.quote {
+    margin: 50px;
+    padding: 150px;
+}
