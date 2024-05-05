@@ -91,3 +91,8 @@ main {
     justify-content: space-between;
     
 }
+
+.block {
+    margin: 50px 20px 20px 20px ;
+    color: white;
+}
